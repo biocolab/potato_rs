@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hamidreza_Maghsoudloo_6H.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Hamidreza_Maghsoudloo_6H</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						54.57920696812563,36.87990347949792,0 54.57924226597495,36.88025989017319,0 54.57897297587488,36.88163405566756,0 54.5788645916699,36.88239452592025,0 54.5788232291095,36.88346453458739,0 54.57884275307996,36.88382854372982,0 54.57891452279195,36.88412909467285,0 54.57902424394494,36.88434970308651,0 54.57850100851683,36.8844110413379,0 54.57818029843534,36.88295772018137,0 54.57809855541746,36.88231394965391,0 54.57787319347636,36.88100004585272,0 54.57801573599428,36.88087054522912,0 54.57797254439449,36.87993063255372,0 54.57783491413282,36.87919033092874,0 54.57768867139564,36.87906299164583,0 54.57769445772595,36.87842831613287,0 54.57779058470671,36.87831935684317,0 54.57791335184569,36.87827145169167,0 54.57887939680207,36.87826530470409,0 54.57920696812563,36.87990347949792,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

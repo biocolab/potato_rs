@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Mehdi_Tajik_2H.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Mehdi_Tajik_2H</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						54.57385235639635,36.87753629609923,0 54.57386640105823,36.8775362845267,0 54.57389800174109,36.87753625847979,0 54.57400685917582,36.87754459468203,0 54.57446680437936,36.8775301702447,0 54.5748794526621,36.87893977014556,0 54.57511239500362,36.87985736237046,0 54.57498960737256,36.87993891592757,0 54.57525384078961,36.88061558015688,0 54.575057196715,36.88060731883898,0 54.57476217401315,36.88055139218934,0 54.57466368197413,36.88041665885282,0 54.57466350995375,36.88028465224191,0 54.57471241521285,36.88009081453081,0 54.57477182462946,36.87987449910967,0 54.57474708822532,36.87975374798645,0 54.57453270409543,36.87960225989609,0 54.57420667631419,36.8792888873414,0 54.57413985722423,36.87920749207308,0 54.57406935963455,36.87899690210212,0 54.57395671323857,36.87877511238671,0 54.57392144479533,36.87865436969849,0 54.57388590278401,36.87851485482916,0 54.57374863224197,36.87825657293171,0 54.57372380364642,36.87806279686604,0 54.57371287104372,36.87775385455679,0 54.57374779032848,36.87760496714418,0 54.57385235639635,36.87753629609923,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
