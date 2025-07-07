@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>آی محمد آورند 2ه گندم ابی.kml</name>
+	<Style id="s_ylw-pushpin_hl1111">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8cffffff</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin09">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8cffffff</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>آی محمد آورند 2ه گندم ابی</name>
+		<styleUrl>#m_ylw-pushpin09</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						55.36495327504647,37.41039675937539,0 55.36510659853348,37.4104176819612,0 55.36519728251588,37.41030089256544,0 55.36520407326159,37.40998667741756,0 55.36518014034334,37.40986904200402,0 55.36507487018481,37.40974141684252,0 55.36502322188881,37.40962833132789,0 55.36490315355919,37.40952303497829,0 55.36483671212564,37.40938377614766,0 55.36503135918773,37.40926650385989,0 55.36524646425016,37.40912829769085,0 55.36535638671673,37.40911313073495,0 55.3654532037868,37.4091193826161,0 55.36553662632547,37.40915756955814,0 55.36560622676446,37.40920848584384,0 55.36574979146617,37.40927171666937,0 55.36590092758478,37.40932377684071,0 55.36604401462229,37.40939959735456,0 55.36618603428684,37.40952754336279,0 55.36622016251061,37.40963834861829,0 55.36615919788302,37.40980687980115,0 55.36613070927879,37.40996322469904,0 55.36614551965523,37.41012099966268,0 55.3662419227017,37.41025026611588,0 55.36635928988219,37.41036433107063,0 55.36655092277168,37.41046089361872,0 55.36649515052149,37.41052582224467,0 55.3663677551037,37.41045592235422,0 55.36627311817344,37.41043901798079,0 55.36617908380507,37.41047022127415,0 55.36612021382773,37.41050423864298,0 55.36604462607504,37.41067824490752,0 55.36591684026583,37.41082650958348,0 55.36576805773435,37.41090018751692,0 55.36563100367529,37.41105069547693,0 55.36528388122171,37.41093280977292,0 55.36510808014175,37.41077261992278,0 55.36495391303913,37.41058398619342,0 55.36495327504647,37.41039675937539,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>اناگلدی مختوم نژاد 2.5ه گندم دیم.kml</name>
+	<Style id="s_ylw-pushpin_hl801">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin105">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin132</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl801</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin132">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>اناگلدی مختوم نژاد 2.5ه گندم دیم</name>
+		<styleUrl>#m_ylw-pushpin105</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						55.29745470428184,37.48695044942973,0 55.29580292132644,37.48892949753814,0 55.29573017869561,37.48886606120162,0 55.29565324038128,37.48875671466158,0 55.29554991773243,37.48864224630403,0 55.29556562140783,37.48852433172638,0 55.29546497505362,37.4884514153872,0 55.29542633038492,37.48836238249887,0 55.29548408435981,37.48824122227017,0 55.29537540052651,37.48821470122083,0 55.29523190806311,37.48817319874347,0 55.29515616789441,37.48810294167512,0 55.29521886633711,37.48794873662226,0 55.29574686901631,37.48769681543721,0 55.29594263910012,37.48747404658165,0 55.2959602392357,37.48717448635854,0 55.2958228945806,37.4870420723014,0 55.29562673457026,37.48688944783816,0 55.29551733289566,37.48680008689883,0 55.29548996622138,37.48674506988363,0 55.29518052696358,37.48655298430032,0 55.29525274124767,37.48635674247188,0 55.29745470428184,37.48695044942973,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
