@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>جمال الدین قربی زاده 2ه گندم.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8cffffff</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8cffffff</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>جمال الدین قربی زاده 2ه گندم</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						55.36847676184644,37.46867314579642,0 55.36887078886097,37.4690134572776,0 55.36524973645625,37.47115854286523,0 55.36486667972873,37.47079195379663,0 55.36847676184644,37.46867314579642,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
