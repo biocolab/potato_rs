@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>رجب محمد مختوم نژاد 2ه گندم.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>70ffffff</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>70ffffff</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>رجب محمد مختوم نژاد 2ه گندم</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						55.31745760712811,37.51579319273068,0 55.31724824966923,37.51580265979074,0 55.31693853068514,37.51586303120862,0 55.31682481161962,37.51590831173883,0 55.31674531967551,37.51594066082698,0 55.31667512148508,37.51604284699287,0 55.31656957732516,37.51608225464995,0 55.31639496974897,37.51621939543419,0 55.31622530911347,37.51638977613629,0 55.31609353213915,37.51657959557102,0 55.31605430872495,37.51672191291176,0 55.31594298434132,37.51692545202172,0 55.31583185824925,37.51704685964715,0 55.31570456224224,37.51705109112661,0 55.3155871513141,37.51697793544184,0 55.31555081981902,37.51690913429764,0 55.31553112415543,37.51682530219553,0 55.31551458672724,37.51674524139833,0 55.315467204819,37.51669955387615,0 55.31542323296768,37.51660968536707,0 55.31538884407365,37.51650128793618,0 55.31542562412553,37.5163578894988,0 55.31547652797913,37.51619293379565,0 55.31548743729456,37.51605465408931,0 55.31551658797785,37.51593863589929,0 55.31558492439062,37.51584821938823,0 55.31570041255878,37.51577365927977,0 55.31584824963866,37.51566045949561,0 55.31599164478212,37.51551649443957,0 55.31607582479294,37.51534713368467,0 55.31608045217958,37.51525294811069,0 55.31607584943882,37.51518133362163,0 55.31712447153041,37.51496759499308,0 55.31739173374804,37.51492301955813,0 55.31745760712811,37.51579319273068,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
